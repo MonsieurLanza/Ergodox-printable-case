@@ -1,0 +1,17 @@
+Forked from :
+http://www.thingiverse.com/thing:2049124
+and
+https://github.com/bishboria/ErgoDox/
+and uses https://github.com/felipesanches/OpenSCAD_Voronoi_Generator
+
+Licence
+http://creativecommons.org/licenses/GPL/2.0/
+
+# Summary
+
+I really liked Diomedia_be’s work, but needed 1U outer column, (needs latest boards, mine is from https://shop.profetkeyboards.com/product/ergodox-pcbs).
+I also reworked overall look for my own pleasure.
+
+You’ll find everything you need to print and tweak in the `files` folder.
+
+Uses M3 bolt (15mm) and nuts on the underside.
